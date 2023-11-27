@@ -1,0 +1,10 @@
+D:\Zhongli\Web\formdoan\formdoan\bin\Debug\formdoan.exe.config
+D:\Zhongli\Web\formdoan\formdoan\bin\Debug\formdoan.exe
+D:\Zhongli\Web\formdoan\formdoan\bin\Debug\formdoan.pdb
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.csproj.AssemblyReference.cache
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.Form1.resources
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.Properties.Resources.resources
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.csproj.GenerateResource.cache
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.csproj.CoreCompileInputs.cache
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.exe
+D:\Zhongli\Web\formdoan\formdoan\obj\Debug\formdoan.pdb
